@@ -31,7 +31,7 @@
 			}
 		}
 		ptr=s;
-		printf("\nWithout Reversing:");
+		printf("\nPrinting:");
 		while(ptr!=NULL)
 		{
 			printf("\n[%p]{%d %p}",ptr->next,ptr->value,ptr);
