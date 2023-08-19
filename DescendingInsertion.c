@@ -12,7 +12,7 @@ int main()
 	ptr1=(node*)(malloc(sizeof(node)));
 	s=NULL;
 	int n;
-	printf("enter the number of nodes");
+	printf("enter the number of nodes in the list ");
 	scanf("%d",&n);
 	int i,x;
 	for(i=0;i<n;i++)
