@@ -60,12 +60,12 @@ node *add(node **poly1,node **poly2,node **result)
 		(*poly1)=(*poly1)->next;
 		
 	}
-	/*while((*poly2)!=NULL)
+	while((*poly2)!=NULL)
 	{
 		insert(&result,((*poly2)->value),(*poly2)->coeff);
 		(*poly2)=(*poly2)->next;
 		
-	}*/
+	}
 	
 }
 void print(node **s)
