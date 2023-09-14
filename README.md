@@ -1,5 +1,3 @@
-# linked-list
-
 # Linked List Programs in C
 
 This repository contains a collection of basic linked list programs implemented in C. Linked lists are fundamental data structures that consist of nodes where each node points to the next node, forming a linear sequence. This repository serves as a resource for learning and practicing linked list concepts in the C programming language.
